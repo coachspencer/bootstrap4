@@ -1,3 +1,11 @@
+header {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+
 body.signin-body{
     background-color: aquamarine;
 }
@@ -41,3 +49,12 @@ a.create-New-account{
     margin-top: 15px;
 
 }
+
+footer {
+    background-color: #666;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+  
