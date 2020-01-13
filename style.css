@@ -18,4 +18,10 @@ img.signin-image{
     padding: 0, 2rem, 2rem;
     margin: auto;
     display: block;
+    width: 70%;
+}
+
+form.signin-form{
+    max-width: 350px;
+    margin: auto;
 }
